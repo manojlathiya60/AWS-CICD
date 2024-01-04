@@ -27,8 +27,6 @@ public class SpringBootH2CRUDApplication {
 		SpringApplication.run(SpringBootH2CRUDApplication.class, args);
 	}
 
-
-
 	@Autowired
 	private StudentRepository studentRepository;
 
